@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "shahzoda",
+      "surname": "shirinova",
+      "phone": 1230099,
+      "age": 16,
+      "address": "Yashnbod"
+    },
+    {
+      "id": "6145",
+      "name": "munisa",
+      "surname": "shavkatova",
+      "phone": 8966699,
+      "is_diploma": true,
+      "age": 22
+    },
+    {
+      "id": "e85d",
+      "name": "muhlisa",
+      "surname": "shirinova",
+      "phone": 21222121,
+      "is_diploma": false,
+      "age": 12
+    }
+  ]
+}
